@@ -29,5 +29,5 @@ jobs:
         - build
         - hithere
         - test:
-          requires:
-            - hithere
+            requires:
+              - hithere
